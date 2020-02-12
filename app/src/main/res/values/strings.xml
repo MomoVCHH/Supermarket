@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Supermarkt</string>
+    <string name="button1">Kaufland</string>
+    <string name="button2">Rewe</string>
+    <string name="button3">Edeka</string>
+    <string name="button4">Penny</string>
+    <string name="aktionspreis">Aktionspreis</string>
+    <string name="button5">Netto</string>
+</resources>
